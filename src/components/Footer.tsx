@@ -7,7 +7,7 @@ const Footer = () => {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      href: 'www.linkedin.com/in/abhisek-chatterjee-11400b286',
+      href: 'https://www.linkedin.com/in/abhisek-chatterjee-11400b286/',
       color: 'hover:text-blue-500'
     },
     {
