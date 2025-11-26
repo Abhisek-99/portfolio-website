@@ -7,13 +7,13 @@ const Footer = () => {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      href: '#',
+      href: 'www.linkedin.com/in/abhisek-chatterjee-11400b286',
       color: 'hover:text-blue-500'
     },
     {
       name: 'GitHub',
       icon: Github,
-      href: '#',
+      href: 'https://github.com/Abhisek-99',
       color: 'hover:text-gray-400'
     },
     {
