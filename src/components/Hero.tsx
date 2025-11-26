@@ -45,17 +45,12 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            {/* <Button variant="hero" size="lg" className="glow-primary">
-              <Download className="mr-2 h-5 w-5" />
-              Download Resume
-            </Button> */}
-
             <a href={resumePDF}  target="_blank" rel="noopener noreferrer">
-  <Button variant="hero" size="lg" className="glow-primary">
-    <Download className="mr-2 h-5 w-5" />
-    View Resume
-  </Button>
-</a>
+              <Button variant="hero" size="lg" className="glow-primary">
+              <Download className="mr-2 h-5 w-5" />
+                View Resume
+               </Button>
+            </a>
 
             
             <Button 
