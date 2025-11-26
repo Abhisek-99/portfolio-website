@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Label } from '@/components/ui/label';
-import { Mail, Linkedin, Github, Send } from 'lucide-react';
+import { Mail, Linkedin, Github, phone-call, Send } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 
 const Contact = () => {
@@ -50,6 +50,12 @@ const Contact = () => {
       name: 'Email',
       icon: Mail,
       href: 'mailto:abhisek4901@gmail.com',
+      color: 'hover:text-red-500'
+    }
+    {
+      name: 'Contact',
+      icon: phone-call,
+      href: '+919883054901',
       color: 'hover:text-red-500'
     }
   ];
