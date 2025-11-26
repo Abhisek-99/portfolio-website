@@ -1,6 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { Download, ChevronDown } from 'lucide-react';
 import heroImage from '@/assets/hero-bg.jpg';
+import resumePDF from '@/assets/Abhisek_Chatterjee.pdf';
 
 const Hero = () => {
   const scrollToSection = (sectionId: string) => {
@@ -49,7 +50,7 @@ const Hero = () => {
               Download Resume
             </Button> */}
 
-            <a href="/src/assets/Abhisek Chatterjee (2).pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/abhisek-resume.pdf" target="_blank" rel="noopener noreferrer">
   <Button variant="hero" size="lg" className="glow-primary">
     <Download className="mr-2 h-5 w-5" />
     View Resume
