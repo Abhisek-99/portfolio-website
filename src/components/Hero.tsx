@@ -50,7 +50,7 @@ const Hero = () => {
               Download Resume
             </Button> */}
 
-            <a href="/abhisek-resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href={resumePDF}  target="_blank" rel="noopener noreferrer">
   <Button variant="hero" size="lg" className="glow-primary">
     <Download className="mr-2 h-5 w-5" />
     View Resume
