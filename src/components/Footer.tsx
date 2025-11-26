@@ -1,4 +1,4 @@
-import { Linkedin, Github, Mail, Heart } from 'lucide-react';
+import { Linkedin, Github, Mail, PhoneCall, Heart } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -21,6 +21,12 @@ const Footer = () => {
       icon: Mail,
       href: 'mailto:abhisek4901@gmmai.com',
       color: 'hover:text-red-500'
+    },
+    {
+      name: 'Phone',
+      icon: PhoneCall,
+      href: 'tel:+919883054901',
+      color: 'hover:text-green-500'
     }
   ];
 
