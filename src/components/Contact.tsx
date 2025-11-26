@@ -51,12 +51,12 @@ const Contact = () => {
       icon: Mail,
       href: 'mailto:abhisek4901@gmail.com',
       color: 'hover:text-red-500'
-    }
+    },
     {
       name: 'Contact',
       icon: phone-call,
       href: '+919883054901',
-      color: 'hover:text-red-500'
+      color: 'hover:text-green-500'
     }
   ];
 
