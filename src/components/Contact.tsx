@@ -37,19 +37,19 @@ const Contact = () => {
     {
       name: 'LinkedIn',
       icon: Linkedin,
-      href: '#',
+      href: 'https://www.linkedin.com/in/abhisek-chatterjee-11400b286/',
       color: 'hover:text-blue-500'
     },
     {
       name: 'GitHub',
       icon: Github,
-      href: '#',
+      href: 'https://github.com/Abhisek-99',
       color: 'hover:text-gray-400'
     },
     {
       name: 'Email',
       icon: Mail,
-      href: 'mailto:your.email@example.com',
+      href: 'mailto:abhisek4901@gmail.com',
       color: 'hover:text-red-500'
     }
   ];
