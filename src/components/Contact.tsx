@@ -53,9 +53,9 @@ const Contact = () => {
       color: 'hover:text-red-500'
     },
     {
-      name: 'Contact',
+      name: 'Phone',
       icon: PhoneCall,
-      href: '+919883054901',
+      href: 'tel:+919883054901',
       color: 'hover:text-green-500'
     }
   ];
