@@ -9,22 +9,22 @@ const Projects = () => {
       title: 'React E-Commerce Application',
       description: 'A full-featured e-commerce platform built with React.js, featuring user authentication, shopping cart, payment integration, and responsive design.',
       techStack: ['React.js', 'JavaScript', 'CSS', 'Local Storage'],
-      liveUrl: 'https://preview--web-whispers-folio.lovable.app/',
-      githubUrl: 'https://github.com/Abhisek-99/web-whispers-folio.git'
+      liveUrl: 'e-commerce-website-snowy-one.vercel.app',
+      githubUrl: 'https://github.com/Abhisek-99/E-commerce-Website.git'
     },
     {
       title: 'WhatsApp Clone Web App',
       description: 'A real-time messaging application that replicates WhatsApp\'s core functionality with modern web technologies.',
       techStack: ['React.js', 'CSS', 'JavaScript', 'Web APIs'],
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: '/',
+      githubUrl: '/'
     },
     {
       title: 'Google-like Search Page',
       description: 'A responsive search engine interface inspired by Google, featuring clean design and smooth user interactions.',
       techStack: ['HTML', 'CSS', 'JavaScript', 'Responsive Design'],
-      liveUrl: '#',
-      githubUrl: '#'
+      liveUrl: '/',
+      githubUrl: '/'
     }
   ];
 
