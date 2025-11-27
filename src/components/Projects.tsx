@@ -9,7 +9,7 @@ const Projects = () => {
       title: 'React E-Commerce Application',
       description: 'A full-featured e-commerce platform built with React.js, featuring user authentication, shopping cart, payment integration, and responsive design.',
       techStack: ['React.js', 'JavaScript', 'CSS', 'Local Storage'],
-      liveUrl: 'e-commerce-website-snowy-one.vercel.app',
+      liveUrl: 'https://e-commerce-website-snowy-one.vercel.app/',
       githubUrl: 'https://github.com/Abhisek-99/E-commerce-Website.git'
     },
     {
