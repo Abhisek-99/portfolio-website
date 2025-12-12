@@ -1,4 +1,4 @@
-import { Linkedin, Github, Mail, PhoneCall, Heart } from 'lucide-react';
+import { Linkedin, Github, Mail, PhoneCall } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -37,7 +37,7 @@ const Footer = () => {
           <div className="text-center md:text-left mb-6 md:mb-0">
             <p className="text-muted-foreground flex items-center justify-center md:justify-start gap-2">
               © {currentYear} Made 
-              <Heart className="h-4 w-4 text-yellow-500 fill-current" />
+              {/* <Heart className="h-4 w-4 text-yellow-500 fill-current" /> */}
               by Abhisek Chatterjee
             </p>
           </div>
