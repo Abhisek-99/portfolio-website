@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button';
 import { Download, ChevronDown } from 'lucide-react';
 import heroImage from '@/assets/hero-bg.jpg';
-import resumePDF from '@/assets/Abhisek_Chatterjee.pdf';
+import resumePDF from '@/assets/Abhisek Chatterjee R.pdf';
 
 const Hero = () => {
   const scrollToSection = (sectionId: string) => {
