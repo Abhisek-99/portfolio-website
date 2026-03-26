@@ -37,7 +37,7 @@ const Footer = () => {
           <div className="text-center md:text-left mb-6 md:mb-0">
             <p className="text-muted-foreground flex items-center justify-center md:justify-start gap-2">
               © {currentYear} Made 
-              by <b className="text-white">Abhisek Chatterjee</b>
+              by <b className="text-gray-400">Abhisek Chatterjee</b>
             </p>
           </div>
           
